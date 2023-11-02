@@ -25,7 +25,7 @@ AI and augmented intelligence (which retains elements of human intelligence rath
 
 > “While the integration of AI and augmented intelligence in dentistry is progressing, it's important to note that human expertise and clinical judgment remain essential. Ethical considerations, data privacy and regulatory guidelines are crucial to ensure responsible implementation and protect patient rights." [6](https://adanews.ada.org/ada-news/2023/june/artificial-intelligence-and-dentistry/).
 
-AI should act as a support and not the main driver of clinical decisions, and also patients right and the law should be kept in mind when designing these products.
+AI should act as a support and not the main driver of clinical decisions, and also patient's right and the law should be kept in mind when designing these products.
 
 AI is gaining more relevance, especially in the speciality of endodontics (which deals with roots of teeth), where it has demonstrated accuracy and precision in terms of disease detection, evaluation, and prediction. This in turn can enhance endodontic treatment results by aiding the advancement of endontontic diagnosis and therapy [7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9418762/).
 
