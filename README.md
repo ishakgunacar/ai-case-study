@@ -6,7 +6,7 @@ VideaHealth is a venture-backed company founded in 2018 by Florian Hillen wantin
 
 ## Business Activities
 
-VideaHealth wants to assist dental providers (dentists) and hygenists when it comes to identifying and diagnosing oral disease [2]. VideaHealth makes providers feel more confident when making a diagnosis [3]. According to the company's website, its mission is to help the more than 200,000 professionally active providers, according to the American Dental Association (ADA), serve 1 billion patients globally with artificial intelligence [2] [12].
+VideaHealth wants to assist dental providers (dentists) and hygenists when it comes to identifying and diagnosing oral disease [2]. VideaHealth makes providers feel more confident when making a diagnosis [3]. According to the company's website, its mission is to help the more than 200,000 professionally active providers, according to the American Dental Association (ADA), serve 1 billion patients globally with AI [2] [12].
 
 VideaHealth partnered with 42 North, a dental support organization, to better streamline VideaHealth's product into the provider's workflow, leading to a high adoption of VideaHealth's product [4]. VideaHealth works hard to ensure that their product increases the detection of dental decay, while decreasing false-positive detection i.e. errors. [5]
 
@@ -28,7 +28,7 @@ AI has also demonstrated accuracy and precision in the dental specialty of endod
 
 ## Results
 
-VideaHealth is the #1 dental AI for Dental Service Organizations and clinicians across the U.S.; This is due to their product's accuracy when it comes to detection [11]. They are at the forefront of the AI revolution in dentistry [9]. As mentioned before, their mission is to help providers serve 1 billion patients globally with artificial intelligence. 
+VideaHealth is the #1 dental AI for Dental Service Organizations and clinicians across the U.S.; This is due to their product's accuracy when it comes to detection [11]. They are at the forefront of the AI revolution in dentistry [9]. As mentioned before, their mission is to help providers serve 1 billion patients globally with AI. 
 
 It uses a few metrics to ensure its success, the growth in annual net production of a dental practice (i.e. dental office) (12% growth); growth in production of restorative (12% growth), periodontal (19% growth), treatment plan acceptance, and the increases the detection of dental disease, while decreasing false-positive detection [9]. VideaHealth has shown through their studies that their AI product can reduce the missed instance of cavities by 43%, while reducing false diagnoses by 15%, leading to better patient care, better provider-patient trust, and a more confident feeling provider [10].
 
