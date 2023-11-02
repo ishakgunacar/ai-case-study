@@ -10,6 +10,12 @@ VideaHealth wants to assist dental providers (dentists) and hygenists when it co
 
 VideaHealth partnered with 42 North, a dental support organization, to better streamline VideaHealth's product into the provider's workflow, leading to a high adoption of VideaHealth's product [4]. VideaHealth works hard to ensure that their product increases the detection of dental decay, while decreasing false-positive detection i.e. errors. [5]
 
+VideaHealth bares a great product with a friendly user interface. For instance, when showing the detection of dental caries, their product boxes the area whereas other companies' product fills the area in; the patient is able to see and understand the dental caries better in the former. Henry Schein One (the world's largest dental practice management software company) chose to partner with them over other major companies in the field due to their high detection rate [11].
+
+Another solution VideaHealth offers is that it's able to to detect calculus for scaling and root planing (which is a dental procedure to remove the calculus) and its product will take the findings and annotate, give information on what VideaHealth is and attach that to the insurance claim. This leads to a higher insurance claim acceptance rate for scaling and root planing, which insurances commonly deny [11].
+
+I was only able to speak with a member of the sales team from VideaHealth at the time, so I was not able to find out what exact technologies they use in their AI product to be able to detect these dental diseases.
+
 
 ## Landscape
 
@@ -26,7 +32,7 @@ VideaHealth is the #1 dental AI for Dental Service Organizations and clinicians 
 
 It uses a few metrics to ensure its success, the growth in annual net production of a dental practice (i.e. dental office) (12% growth); growth in production of restorative (12% growth), periodontal (19% growth), treatment plan acceptance, and the increases the detection of dental disease, while decreasing false-positive detection [9]. VideaHealth has shown through their studies that their AI product can reduce the missed instance of cavities by 43%, while reducing false diagnoses by 15%, leading to better patient care, better provider-patient trust, and a more confident feeling provider [10].
 
-As far as marketing goes, VideaHealth is the clear winner, as I found it hard to find information on its other competitors when doing research into each of them. More importantly, Henry Schein One (the world's largest dental practice management software company), after doing a long process of comparison between VideaHealth's competitors, chose to partner with VideaHealth based on all the data mentioned so far. VideaHealth also has a more friendly user interface in comparison to its competitors [11]. 
+As far as marketing goes, VideaHealth is the clear winner, as I found it hard to find information on its other competitors when doing research into each of them. More importantly, Henry Schein One, after doing a long process of comparison between VideaHealth's competitors, chose to partner with VideaHealth based on all the data mentioned so far. VideaHealth also has a more friendly user interface in comparison to its competitors [11]. 
 
 ## Recommendations
 
@@ -57,3 +63,5 @@ The sales member said that their currently focused on the detection aspect of de
 [10] https://www.youtube.com/watch?v=cN4VgVG9R3o
 
 [11] https://drive.google.com/file/d/1bUgKQeblNOyGyuxtXzmee4QjAdxHnoqM/view?usp=sharing
+
+[12] https://www.ada.org/en/resources/research/health-policy-institute/dentist-workforce
