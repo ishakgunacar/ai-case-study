@@ -6,7 +6,7 @@ VideaHealth is a venture-backed company founded in 2018 by Florian Hillen wantin
 
 ## Business Activities
 
-VideaHealth wants to assist dental providers and hygenists when it comes to identifying and diagnosing oral disease [2]. VideaHealth makes providers feel more confident when making a diagnosis [3]. According to the company's website, its mission is to help providers serve 1 billion patients globally with artificial intelligence [2].
+VideaHealth wants to assist dental providers (dentists) and hygenists when it comes to identifying and diagnosing oral disease [2]. VideaHealth makes providers feel more confident when making a diagnosis [3]. According to the company's website, its mission is to help the more than 200,000 professionally active providers, according to the American Dental Association (ADA), serve 1 billion patients globally with artificial intelligence [2] [12].
 
 VideaHealth partnered with 42 North, a dental support organization, to better streamline VideaHealth's product into the provider's workflow, leading to a high adoption of VideaHealth's product [4]. VideaHealth works hard to ensure that their product increases the detection of dental decay, while decreasing false-positive detection i.e. errors. [5]
 
@@ -15,7 +15,7 @@ VideaHealth partnered with 42 North, a dental support organization, to better st
 
 VideaHealth is focused in the healthcare field, specifically dentistry, as are companies like Pearl and Overjet. 
 
-AI and augmented intelligence (which retains elements of human intelligence rather than machine intelligence in its procedures) is primarily used in the analysis of dental images to aid providers in making diagnoses. Specifically, augmented intelligence is used as a tool to assist the provider in the task. The chair of the American Dental Assocation Council on Dental Practice states that while there is progression with this technology, it's important that human expertise and clinical judgement remain essential [6].
+AI and augmented intelligence (which retains elements of human intelligence rather than machine intelligence in its procedures) is primarily used in the analysis of dental images to aid providers in making diagnoses. Specifically, augmented intelligence is used as a tool to assist the provider in the task. The chair of the ADA Council on Dental Practice states that while there is progression with this technology, it's important that human expertise and clinical judgement remain essential [6].
 
 AI has also demonstrated accuracy and precision in the dental specialty of endodontics (which deals with roots of teeth) in terms of disease detection, evaluation, and prediction. This in turn can enhance endodontic treatment results by aiding the advancement of endontontic diagnosis and therapy. [7]
 
